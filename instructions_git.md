@@ -83,6 +83,3 @@ git pull
 ```sh
 git push -u origin main
 ```
-1 7b9f0b9db71330f26a5e82450b9836eb544337d8
-2 cfba0cd8288e6e41b11e3cee117c41b5c9b5019e
-3 796206d0c2b2b4e7a97f8673f4d267913b41f12c
